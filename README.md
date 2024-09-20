@@ -31,7 +31,7 @@
 
 | № | Дата | Занятие  | Материалы | Запись |
 |----|-----|----------|-----------|--------|
-| 1  | 20.09.2024 | Дистилляция знаний| [Презентация](presentations/lec1_knowledge_distillation.ipynb) [Ноутбук](notebooks/sem1_knowledge_distillation.ipynb) | - |
+| 1  | 20.09.2024 | Дистилляция знаний| [Презентация](presentations/lec1_knowledge_distillation.pdf) [Ноутбук](notebooks/sem1_knowledge_distillation.ipynb) | - |
 
 ## Пререквизиты
 
