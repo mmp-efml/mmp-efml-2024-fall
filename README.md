@@ -32,6 +32,7 @@
 | № | Дата | Занятие  | Материалы | Запись |
 |----|-----|----------|-----------|--------|
 | 1  | 20.09.2024 | Дистилляция знаний| [Презентация](presentations/lec1_knowledge_distillation.pdf) [Ноутбук](notebooks/sem1_knowledge_distillation.ipynb) | - |
+| 2  | 04.10.2024 | Дистилляция знаний| [Ноутбук](notebooks/sem2_quantization/sem2_quantization.ipynb) | - |
 
 ## Пререквизиты
 
