@@ -29,11 +29,14 @@
 
 ## Содержание курса
 
-| № | Дата | Занятие  | Материалы | Запись |
-|----|-----|----------|-----------|--------|
-| 1  | 20.09.2024 | Дистилляция знаний| [Презентация](presentations/lec1_knowledge_distillation.pdf) [Ноутбук](notebooks/sem1_knowledge_distillation.ipynb) | - |
-| 2  | 04.10.2024 | Квантизация и спарсификация| [Презентация](presentations/lec2_quantization_sparsification.pdf) [Ноутбук](notebooks/sem2_quantization/sem2_quantization.ipynb) | - |
-| 3  | 11.10.2024 | PEFT & NAS| [Презентация](presentations/lec3_peft_nas.pdf) [Ноутбук](notebooks/sem3_peft_nas.ipynb) | - |
+Записи занятий на YouTube [в плейлисте](https://www.youtube.com/playlist?list=PLmqlXGZVoej1sAsUNFIDoGleiTtb4Y1Pa).
+
+| № | Дата | Занятие  | Материалы |
+|----|-----|----------|-----------|
+| 1  | 20.09.2024 | Дистилляция знаний| [Презентация](presentations/lec1_knowledge_distillation.pdf) [Ноутбук](notebooks/sem1_knowledge_distillation.ipynb) |
+| 2  | 04.10.2024 | Квантизация и спарсификация| [Презентация](presentations/lec2_quantization_sparsification.pdf) [Ноутбук](notebooks/sem2_quantization/sem2_quantization.ipynb) |
+| 3  | 11.10.2024 | PEFT & NAS| [Презентация](presentations/lec3_peft_nas.pdf) [Ноутбук](notebooks/sem3_peft_nas.ipynb) |
+| 4  | 18.10.2024 | Временные ряды | [Конспект](presentations/lec4_time_series_analysis/notes.pdf) [Ноутбук](https://github.com/thuml/Time-Series-Library/blob/main/tutorial/TimesNet_tutorial.ipynb)
 
 ## Пререквизиты
 
