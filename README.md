@@ -37,6 +37,7 @@
 | 2  | 04.10.2024 | Квантизация и спарсификация| [Презентация](presentations/lec2_quantization_sparsification.pdf) [Ноутбук](notebooks/sem2_quantization/sem2_quantization.ipynb) |
 | 3  | 11.10.2024 | PEFT & NAS| [Презентация](presentations/lec3_peft_nas.pdf) [Ноутбук](notebooks/sem3_peft_nas.ipynb) |
 | 4  | 18.10.2024 | Временные ряды | [Конспект](presentations/lec4_time_series_analysis/notes.pdf) [Ноутбук](https://github.com/thuml/Time-Series-Library/blob/main/tutorial/TimesNet_tutorial.ipynb)
+| 5  | 16.10.2024 | Рекомендательные системы | [Слайды](presentations/lec5_recommender_systems/slides.pdf) [Конспект](presentations/lec5_recommender_systems/notess.pdf) |
 
 ## Пререквизиты
 
