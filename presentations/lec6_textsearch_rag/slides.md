@@ -16,7 +16,7 @@ section::after {
 
 # Text Embedding. Text Retrieval & Ranking. Retrieval-Augmented Generation.
 
-###### Alekseev Ilya, AIMasters, Fall 2024.
+###### Alekseev Ilya, EFML, Fall 2024.
 
 ---
 
