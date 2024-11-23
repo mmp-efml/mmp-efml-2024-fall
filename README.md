@@ -38,7 +38,9 @@
 | 3  | 11.10.2024 | PEFT & NAS| [Презентация](presentations/lec3_peft_nas.pdf) [Ноутбук](notebooks/sem3_peft_nas.ipynb) |
 | 4  | 18.10.2024 | Временные ряды | [Конспект](presentations/lec4_time_series_analysis/notes.pdf) [Ноутбук](https://github.com/thuml/Time-Series-Library/blob/main/tutorial/TimesNet_tutorial.ipynb)
 | 5  | 26.10.2024 | Рекомендательные системы | [Слайды](presentations/lec5_recommender_systems/slides.pdf) [Конспект](presentations/lec5_recommender_systems/notess.pdf) |
-| 6  | 1.11.2024 | Текстовый поиск. RAG | [Слайды](presentations/lec6_textsearch_rag/slides.pdf) [Ноутбук](notebooks/sem6_textsearch_rag.ipynb) |
+| 6  | 01.11.2024 | Текстовый поиск. RAG | [Слайды](presentations/lec6_textsearch_rag/slides.pdf) [Ноутбук](notebooks/sem6_textsearch_rag.ipynb) |
+| 7  | 08.11.2024 | Обработка графов, графовые нейронные сети | [Слайды](presentations/lec7_gnn.pdf) [Пример работы с DGL](https://docs.dgl.ai/en/1.1.x/tutorials/blitz/1_introduction.html) |
+| 8  | 15.11.2024 | Табличный DL | - |
 
 ## Пререквизиты
 
