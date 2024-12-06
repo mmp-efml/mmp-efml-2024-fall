@@ -42,6 +42,8 @@
 | 7  | 08.11.2024 | Обработка графов, графовые нейронные сети | [Слайды](presentations/lec7_gnn.pdf) [Пример работы с DGL](https://docs.dgl.ai/en/1.1.x/tutorials/blitz/1_introduction.html) |
 | 8  | 15.11.2024 | Табличный DL | - |
 | 9  | 22.11.2024 | Диффузионные модели, дискретное и непрерывное время | [Слайды](presentations/lec9_diffusion.pdf) |
+| 10 | 29.11.2024 | Единое представление диффузии. Солверы ОДУ/СДУ | [Слайды](presentations/lec10_edm_solvers.pdf) |
+| 11 | 06.12.2024 | Stable diffusion. Применение диффузии в качестве функции потерь | [Слайды](presentations/lec11_sd_sds_dmd.pdf) |
 
 ## Пререквизиты
 
